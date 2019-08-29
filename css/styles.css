@@ -1,0 +1,8 @@
+.board-space {
+  height: 100px;
+  width: 25%;
+}
+.board {
+  width: 90%;
+  margin-left: 5%;
+}

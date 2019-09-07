@@ -1,4 +1,4 @@
-# _Tic Tac Toe _
+# _Tic Tac Toe_
 
 #### _This program will allow you to play the game of Tic Tac Toe, August 29,2019_
 
